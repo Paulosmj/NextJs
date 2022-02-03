@@ -22,6 +22,7 @@ export default function Inicio() {
         destino="/cliente/sp-2/123"
         cor="Orange"
       />
+      <Navegador texto="Componente com Estado" destino="/estado" cor="pink" />
     </div>
   );
 }
