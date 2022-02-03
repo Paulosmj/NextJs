@@ -22,11 +22,15 @@ export default function Inicio() {
         destino="/cliente/sp-2/123"
         cor="Orange"
       />
-      <Navegador texto="Componente com Estado" destino="/estado" cor="pink" />
+      <Navegador
+        texto="Componente com Estado"
+        destino="/estado"
+        cor="#a45b71"
+      />
       <Navegador
         texto="Integração com API #01"
         destino="/integracao_1"
-        cor="yellow"
+        cor="#42a9a9"
       />
     </div>
   );
