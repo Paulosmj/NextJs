@@ -23,6 +23,11 @@ export default function Inicio() {
         cor="Orange"
       />
       <Navegador texto="Componente com Estado" destino="/estado" cor="pink" />
+      <Navegador
+        texto="Integração com API #01"
+        destino="/integracao_1"
+        cor="yellow"
+      />
     </div>
   );
 }
